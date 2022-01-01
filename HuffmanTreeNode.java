@@ -1,7 +1,4 @@
 /*
- * Programming Assignment 2: Huffman Coding
- * TCSS 342 B
- * Professor Sakpal
  * @version Winter 2021
  * @author Rebekah Parkhurst
  */
